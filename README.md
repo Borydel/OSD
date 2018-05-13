@@ -1,2 +1,3 @@
 # OSD
 Ontologies of sustainable development
+The concept of sustainable development (SD) as multilateral and contradictory notion and its different aspects are considered. Moreover, there are numerous multilingual sources about it. On the base of overview and analysis of well-known ontologies in the area, as well as exploring the terminology used in in authoritative sources, a thesaurus and formal ontology are created. Their links with common ontologies and with domain ontologies in different areas are investigated. For sustainable development ontology design, an universal approach concerning system and process ontology is applied.
