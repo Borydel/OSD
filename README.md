@@ -1,3 +1,3 @@
-# OSD
-Ontologies of sustainable development
-The concept of sustainable development (SD) as multilateral and contradictory notion and its different aspects are considered. Moreover, there are numerous multilingual sources about it. On the base of overview and analysis of well-known ontologies in the area, as well as exploring the terminology used in in authoritative sources, a thesaurus and formal ontology are created. Their links with common ontologies and with domain ontologies in different areas are investigated. For sustainable development ontology design, an universal approach concerning system and process ontology is applied.
+# OSDE
+Ontologies of sustainable development in economy (OSDE)
+The sustainable development is a complex and multilateral process distinguished by three fundamental pillars – economic, social and environmental. The sustainability in economy is one of the three pillars of sustainable development. In the article a domain ontology of sustainable development in economy is presented as a part of an ontological metamodel of sustainable development. The main concepts are the indicators and metrics of economic sustainability. They are extracted from standards and commonly accepted regulations of UN. The ontology is formalized by OWL in Protégé environment and is proposed as an addition to the existing knowledge sources in the area.
